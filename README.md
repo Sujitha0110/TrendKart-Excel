@@ -2,7 +2,8 @@
 
 > **Retail Sales Data Cleaning, Analysis and Interactive Dashboard using Microsoft Excel**
 
-![Dashboard](Dashboard/Dashboard.jpeg)
+<img width="652" height="436" alt="DASHBOARD SCREENSHOT" src="https://github.com/user-attachments/assets/e0a04d66-f9ce-401f-a95e-eacbb99a59c6" />
+
 
 ## 🎯 Objective
 
